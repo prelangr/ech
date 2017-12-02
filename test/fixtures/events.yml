@@ -1,0 +1,45 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  acronym: MyString
+  type: 
+  area: MyString
+  venue: MyString
+  city: MyString
+  province: MyString
+  country: MyString
+  region: MyString
+  organized_by: MyString
+  contact_person: MyString
+  email: MyString
+  phone: 1
+  website: MyString
+  starts_at: 2017-12-02 19:40:42
+  ends_at: 2017-12-02 19:40:42
+  abstract_deadline: 2017-12-02 19:40:42
+  description: MyText
+  languages: MyString
+  user_id: 
+
+two:
+  name: MyString
+  acronym: MyString
+  type: 
+  area: MyString
+  venue: MyString
+  city: MyString
+  province: MyString
+  country: MyString
+  region: MyString
+  organized_by: MyString
+  contact_person: MyString
+  email: MyString
+  phone: 1
+  website: MyString
+  starts_at: 2017-12-02 19:40:42
+  ends_at: 2017-12-02 19:40:42
+  abstract_deadline: 2017-12-02 19:40:42
+  description: MyText
+  languages: MyString
+  user_id: 
